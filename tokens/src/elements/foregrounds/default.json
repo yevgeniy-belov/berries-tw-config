@@ -1,0 +1,30 @@
+{
+	"color": {
+		"fg": {
+			"h": {
+				"value": 0
+			},
+			"s": {
+				"value": "0%"
+			},
+			"l-default": {
+				"value": "0%"
+			},
+			"weakest": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.4)"
+			},
+			"weak": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.6)"
+			},
+			"default": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.8)"
+			},
+			"strong": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 1)"
+			},
+			"white": {
+				"value": "white"
+			}
+		}
+	}
+}

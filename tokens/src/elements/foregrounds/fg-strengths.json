@@ -1,0 +1,8 @@
+{
+    "fg-strength": {
+        "weakest": 0.4,
+        "weak": 0.6,
+        "default": 0.8,
+        "strong": 1
+    }
+}

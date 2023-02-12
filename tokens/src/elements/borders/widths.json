@@ -1,0 +1,22 @@
+{
+	"border": {
+		"default": {
+			"value": "1px"
+		},
+		"0": {
+			"value": "0px"
+		},
+		"1": {
+			"value": "1px"
+		},
+		"bold": {
+			"value": "2px"
+		},
+		"bolder": {
+			"value": "3px"
+		},
+		"boldest": {
+			"value": "5px"
+		}
+	}
+}

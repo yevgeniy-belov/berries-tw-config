@@ -1,0 +1,368 @@
+{
+  "color": {
+    "brand": {
+      "h": {
+        "value": 340
+      },
+      "s": {
+        "value": "72%"
+      },
+      "l": {
+        "lightest": {
+          "value": "92%"
+        },
+        "lighter": {
+          "value": "82%"
+        },
+        "light": {
+          "value": "72%"
+        },
+        "default": {
+          "value": "62%"
+        },
+        "dark": {
+          "value": "52%"
+        },
+        "darker": {
+          "value": "42%"
+        },
+        "darkest": {
+          "value": "32%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-darkest), var(--opacity))"
+      }
+    },
+    "danger": {
+      "h": {
+        "value": 0
+      },
+      "s": {
+        "value": "86%"
+      },
+      "l": {
+        "lightest": {
+          "value": "93%"
+        },
+        "lighter": {
+          "value": "83%"
+        },
+        "light": {
+          "value": "73%"
+        },
+        "default": {
+          "value": "63%"
+        },
+        "dark": {
+          "value": "53%"
+        },
+        "darker": {
+          "value": "43%"
+        },
+        "darkest": {
+          "value": "33%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-darkest), var(--opacity))"
+      }
+    },
+    "standout": {
+      "h": {
+        "value": 280
+      },
+      "s": {
+        "value": "100%"
+      },
+      "l": {
+        "lightest": {
+          "value": "88%"
+        },
+        "lighter": {
+          "value": "77.5%"
+        },
+        "light": {
+          "value": "67%"
+        },
+        "default": {
+          "value": "56.5%"
+        },
+        "dark": {
+          "value": "46%"
+        },
+        "darker": {
+          "value": "35.5%"
+        },
+        "darkest": {
+          "value": "25%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-darkest), var(--opacity))"
+      }
+    },
+    "primary": {
+      "h": {
+        "value": 215
+      },
+      "s": {
+        "value": "31%"
+      },
+      "l": {
+        "lightest": {
+          "value": "56%"
+        },
+        "lighter": {
+          "value": "46%"
+        },
+        "light": {
+          "value": "36%"
+        },
+        "default": {
+          "value": "26%"
+        },
+        "dark": {
+          "value": "21%"
+        },
+        "darker": {
+          "value": "15%"
+        },
+        "darkest": {
+          "value": "10%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-darkest), var(--opacity))"
+      }
+    },
+    "info": {
+      "h": {
+        "value": 215
+      },
+      "s": {
+        "value": "100%"
+      },
+      "l": {
+        "lightest": {
+          "value": "90%"
+        },
+        "lighter": {
+          "value": "80%"
+        },
+        "light": {
+          "value": "70%"
+        },
+        "default": {
+          "value": "60%"
+        },
+        "dark": {
+          "value": "50%"
+        },
+        "darker": {
+          "value": "40%"
+        },
+        "darkest": {
+          "value": "30%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-darkest), var(--opacity))"
+      }
+    },
+    "warning": {
+      "h": {
+        "value": 41
+      },
+      "s": {
+        "value": "100%"
+      },
+      "l": {
+        "lightest": {
+          "value": "80%"
+        },
+        "lighter": {
+          "value": "70%"
+        },
+        "light": {
+          "value": "60%"
+        },
+        "default": {
+          "value": "50%"
+        },
+        "dark": {
+          "value": "40%"
+        },
+        "darker": {
+          "value": "30%"
+        },
+        "darkest": {
+          "value": "20%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-darkest), var(--opacity))"
+      }
+    },
+    "success": {
+      "h": {
+        "value": 94
+      },
+      "s": {
+        "value": "85%"
+      },
+      "l": {
+        "lightest": {
+          "value": "68%"
+        },
+        "lighter": {
+          "value": "58%"
+        },
+        "light": {
+          "value": "48%"
+        },
+        "default": {
+          "value": "38%"
+        },
+        "dark": {
+          "value": "30%"
+        },
+        "darker": {
+          "value": "22%"
+        },
+        "darkest": {
+          "value": "14%"
+        }
+      },
+      "lightest": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-lightest), var(--opacity))"
+      },
+      "lighter": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-lighter), var(--opacity))"
+      },
+      "light": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-light), var(--opacity))"
+      },
+      "default": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), var(--opacity))"
+      },
+      "dark": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-dark), var(--opacity))"
+      },
+      "darker": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-darker), var(--opacity))"
+      },
+      "darkest": {
+        "value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-darkest), var(--opacity))"
+      }
+    }
+  }
+}

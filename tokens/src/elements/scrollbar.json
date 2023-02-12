@@ -1,0 +1,30 @@
+{
+    "scrollbar": {
+        "size": {
+            "value": "10px"
+        },
+        "track": {
+            "piece": {
+                "color": {
+                    "value": "{color.engrave.weaker}"
+                }
+            }
+        },
+        "thumb": {
+            "color": {
+                "value": "{color.engrave.weak}"
+            },
+            "color-hover": {
+                "value": "{color.engrave.default}"
+            }
+        },
+        "inner": {
+            "radius": {
+                "value": "0px"
+            },
+            "size": {
+                "value": "5px"
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+	"color": {
+		"engrave": {
+			"h": {
+				"value": "{color.primary.h}"
+			},
+			"s": {
+				"value": "50%"
+			},
+			"l": {
+				"default": {
+					"value": "12%"
+				}
+			},
+			"a": {
+				"weakest": {
+					"value": 0.09
+				},
+				"weaker": {
+					"value": 0.13
+				},
+				"weak": {
+					"value": 0.19
+				},
+				"default": {
+					"value": 0.29
+				},
+				"strong": {
+					"value": 0.44
+				},
+				"stronger": {
+					"value": 0.67
+				},
+				"strongest": {
+					"value": 1
+				}
+			},
+			"weakest": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.09)"
+			},
+			"weaker": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.13)"
+			},
+			"weak": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.19)"
+			},
+			"default": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.29)"
+			},
+			"strong": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.44)"
+			},
+			"stronger": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 0.67)"
+			},
+			"strongest": {
+				"value": "hsla(var(--color-engrave-h), var(--color-engrave-s), var(--color-engrave-l-default), 1)"
+			}
+		}
+	}
+}

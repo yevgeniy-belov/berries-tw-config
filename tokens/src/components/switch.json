@@ -1,0 +1,46 @@
+{
+    "switch": {
+        "width": {
+            "value": "32px"
+        },
+        "height": {
+            "value": "20px"
+        },
+        "track": {
+            "padding": {
+                "value": "2px"
+            },
+            "color": {
+                "default": {
+                    "value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.3)"
+                },
+                "readonly": {
+                    "value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.2)"
+                },
+                "disabled": {
+                    "value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.1)"
+                },
+                "on": {
+                    "value": "{color.success.default}"
+                }
+            }
+        },
+        "handle": {
+            "icon": {
+                "color": {
+                    "on": {
+                        "value": "{color.success.default}"
+                    }
+                }
+            },
+            "color": {
+                "default": {
+                    "value": "{color.content.default}"
+                },
+                "disabled": {
+                    "value": "{color.content.transparent}"
+                }
+            }
+        }
+    }
+}

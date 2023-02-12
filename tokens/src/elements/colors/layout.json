@@ -1,0 +1,81 @@
+{
+	"color": {
+		"zebra": {
+			"h": {
+				"value": 215
+			},
+			"s": {
+				"value": "60%"
+			},
+			"l": {
+				"value": "50%"
+			},
+			"a": {
+				"value": "0.05"
+			},
+			"default": {
+				"value": "hsla( var(--color-zebra-h), var(--color-zebra-s), var(--color-zebra-l), var(--color-zebra-a))"
+			}
+		},
+		"content": {
+			"h": {
+				"value": 0
+			},
+			"s": {
+				"value": "0%"
+			},
+			"l": {
+				"value": "100%"
+			},
+			"a": {
+				"value": 1
+			},
+			"a-transparent": {
+				"value": 0.75
+			},
+			"a-default": {
+				"value": 1
+			},
+			"transparent": {
+				"value": "hsla( var(--color-content-h), var(--color-content-s), var(--color-content-l), var(--color-content-a-transparent))"
+			},
+			"default": {
+				"value": "hsla( var(--color-content-h), var(--color-content-s), var(--color-content-l), var(--color-content-a-default))"
+			}
+		},
+		"aside": {
+			"h": {
+				"value": 0
+			},
+			"s": {
+				"value": "0%"
+			},
+			"l": {
+				"value": "96%"
+			},
+			"a": {
+				"value": 1
+			},
+			"default": {
+				"value": "hsla( var(--color-aside-h), var(--color-aside-s), var(--color-aside-l), var(--color-aside-a))"
+			}
+		},
+		"canvas": {
+			"h": {
+				"value": 0
+			},
+			"s": {
+				"value": "0%"
+			},
+			"l": {
+				"value": "92%"
+			},
+			"a": {
+				"value": 1
+			},
+			"default": {
+				"value": "hsla( var(--color-canvas-h), var(--color-canvas-s), var(--color-canvas-l), var(--color-canvas-a))"
+			}
+		}
+	}
+}

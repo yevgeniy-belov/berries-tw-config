@@ -1,0 +1,146 @@
+{
+	"border": {
+		"color": {
+			"primary": {
+				"opacity-0": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-primary-h), var(--color-primary-s), var(--color-primary-l-default), 1)"
+				}
+			},
+			"danger": {
+				"opacity-0": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-danger-h), var(--color-danger-s), var(--color-danger-l-default), 1)"
+				}
+			},
+			"warning": {
+				"opacity-0": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-warning-h), var(--color-warning-s), var(--color-warning-l-default), 1)"
+				}
+			},
+			"info": {
+				"opacity-0": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-info-h), var(--color-info-s), var(--color-info-l-default), 1)"
+				}
+			},
+			"success": {
+				"opacity-0": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-success-h), var(--color-success-s), var(--color-success-l-default), 1)"
+				}
+			},
+			"brand": {
+				"opacity-0": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-brand-h), var(--color-brand-s), var(--color-brand-l-default), 1)"
+				}
+			},
+			"standout": {
+				"opacity-0": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 0)"
+				},
+				"weakest": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 0.2)"
+				},
+				"weak": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 0.4)"
+				},
+				"default": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 0.6)"
+				},
+				"strong": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 0.8)"
+				},
+				"strongest": {
+					"value": "hsla(var(--color-standout-h), var(--color-standout-s), var(--color-standout-l-default), 1)"
+				}
+			}
+		}
+	}
+}

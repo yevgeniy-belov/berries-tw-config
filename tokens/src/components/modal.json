@@ -1,0 +1,26 @@
+{
+    "modal": {
+        "width": {
+            "sm": {
+                "value": "640px"
+            },
+            "md": {
+                "value": "720px"
+            },
+            "lg": {
+                "value": "960px"
+            },
+            "xl": {
+                "value": "1280px"
+            }
+        },
+        "max-height": {
+            "sm": {
+                "value": "300px"
+            },
+            "md": {
+                "value": "400px"
+            }
+        }
+    }
+}

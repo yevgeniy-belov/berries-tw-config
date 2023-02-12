@@ -1,0 +1,11 @@
+{
+    "bg-strength": {
+        "weakest": 0.1,
+        "weaker": 0.2,
+        "weak": 0.4,
+        "medium": 0.5,
+        "strong": 0.7,
+        "stronger": 0.8,
+        "strongest": 1
+    }
+}

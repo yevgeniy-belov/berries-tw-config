@@ -1,0 +1,24 @@
+{
+	"border": {
+		"color": {
+			"opacity-0": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0)"
+			},
+			"weakest": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.04)"
+			},
+			"weak": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.06)"
+			},
+			"medium": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.09)"
+			},
+			"strong": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.12)"
+			},
+			"strongest": {
+				"value": "hsla(var(--color-fg-h), var(--color-fg-s), var(--color-fg-l-default), 0.18)"
+			}
+		}
+	}
+}
